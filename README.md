@@ -1,8 +1,8 @@
 ### Olá! Eu sou Ícaro Nascimento 👋
 
 
-- 🔭 Eu estou trabalhando na Staff de Backend na @VAGAS
-- 🌱 Atualmente estou estudando Inteligencia Artificial
+- 🔭 Eu estou trabalhando como Software Engineer @Itaú
+- 🌱 Atualmente estou estudando Kafka, Kotlin, Kubernetes E Prometheus
 - 😄 Pronomes: ele/dele
 
 
