@@ -4,8 +4,8 @@ Desenvolvedor Full-Stack com foco em **Java/Spring Boot** no backend e **React/N
 
 ---
 
-- 🔭 Software Engineer em consultoria — atuando no Santander
-- 🌱 Aprofundando em Node.js, React e APIs de IA
+- 🔭 Software Engineer — atuando no Santander
+- 🌱 Aprofundando Arquitetura de Contextos e APIs de IA
 - 🌎 Aberto a oportunidades remotas
 - 📍 São Paulo, Brasil
 
@@ -13,7 +13,7 @@ Desenvolvedor Full-Stack com foco em **Java/Spring Boot** no backend e **React/N
 
 <div align="center">
   <a href="https://github.com/icaronascimento">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icaronascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icaronascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaronascimento&layout=compact&langs_count=7&theme=dracula&hide=objective-c"/>
   </a>
 </div>
